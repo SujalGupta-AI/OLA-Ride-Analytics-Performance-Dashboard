@@ -9,11 +9,11 @@ This project features an interactive Power BI dashboard designed to analyze OLA 
 Ride-hailing services like OLA operate in a highly dynamic environment where efficiency directly impacts profitability and customer satisfaction. The primary business challenges addressed in this project include:
 * **High Cancellation Rates:** Understanding the volume and reasons behind rides cancelled by customers versus those cancelled by drivers.
 * **Revenue Leakage:** Identifying incomplete rides and optimizing vehicle utilization to maximize daily revenue.
-* **Operational Bottlenecks:** Determining peak booking trends and vehicle category preferences (e.g., Mini, Prime Sedan, Bike) to better allocate the fleet and reduce customer wait times.
+* **Operational Bottlenecks:** Determining peak booking trends and vehicle category preferences (Mini, Prime Sedan, Bike) to better allocate the fleet and reduce customer wait times.
 
 ## Methodology
 1. **Data Ingestion & Cleaning:** Imported raw ride data into Power BI. Handled missing values, formatted dates/times, and categorized booking statuses to ensure accurate reporting.
-2. **Data Modeling:** Established relationships between primary data tables (e.g., ride details, vehicle types, customer demographics) to allow for seamless cross-filtering.
+2. **Data Modeling:** Established relationships between primary data tables (ride details, vehicle types, customer demographics) to allow for seamless cross-filtering.
 3. **Calculations & DAX:** Created custom DAX measures to calculate critical KPIs, including Total Bookings, Overall Cancellation Rate, Successful Ride Value, and Average Ride Distance.
 4. **Dashboard Design:** Developed an interactive, user-friendly interface using Power BI. Utilized bar charts, donut charts, line graphs, and KPI cards to visualize the data. Applied slicers for dynamic filtering by date, vehicle type, and booking status.
 
