@@ -17,7 +17,6 @@ Ride-hailing services like OLA operate in a highly dynamic environment where eff
 3. **Calculations & DAX:** Created custom DAX measures to calculate critical KPIs, including Total Bookings, Overall Cancellation Rate, Successful Ride Value, and Average Ride Distance.
 4. **Dashboard Design:** Developed an interactive, user-friendly interface using Power BI. Utilized bar charts, donut charts, line graphs, and KPI cards to visualize the data. Applied slicers for dynamic filtering by date, vehicle type, and booking status.
 
-![Methodology/Data View](Screenshot%202026-03-23%20090113.png)
 
 ## Skills
 * **Data Visualization & Business Intelligence:** Power BI (`.pbit` implementation)
@@ -31,15 +30,12 @@ Ride-hailing services like OLA operate in a highly dynamic environment where eff
 * **Booking Success:** Out of total bookings, only **[Insert %]** were successfully completed, highlighting a significant drop-off in the ride lifecycle.
 * **Cancellation Insights:** Customer cancellations accounted for **[Insert %]**, while driver cancellations accounted for **[Insert %]**. The most common reason for driver cancellation was **[Insert top reason, e.g., "Customer location too far"]**.
 
-![Cancellation & Success Insights](Screenshot%202026-03-23%20090306.png)
 
 * **Vehicle Performance:** The **[Insert Category, e.g., Prime Sedan]** category generated the highest revenue, while **[Insert Category, e.g., Auto]** saw the highest volume of bookings.
 
-![Vehicle Performance Metrics](Screenshot%202026-03-23%20090327.png)
 
 * **Payment Methods:** **[Insert Payment Type, e.g., UPI]** was the preferred payment method for successful rides.
 
-![Payment & Revenue Distribution](Screenshot%202026-03-23%20090336.png)
 
 ### Business Recommendations
 1. **Reduce Driver Cancellations:** Implement a tiered incentive program that rewards drivers for maintaining a high ride acceptance and completion rate, particularly during peak hours or in high-demand zones.
